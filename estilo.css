@@ -1,0 +1,88 @@
+.nome[type="text"]{
+	background-color: rgb(173,234,234);
+	font-weight: bolder;
+
+	
+	}
+.nome[type="text"]:focus{
+	background: rgba(255, 255, 255, 0.9);
+	font-style: italic;
+}
+
+
+.endereco[type="text"]{
+	background-color: rgb(173,234,234);
+	font-weight: bolder;
+
+	}
+.endereco[type="text"]:focus{
+	background: rgba(255, 255, 255, 0.9);
+	font-style: italic;
+}
+	
+
+.cidade[type="text"]{
+	background-color: rgb(173,234,234);
+	font-weight: bolder;
+	}
+.cidade[type="text"]:focus{
+	background: rgba(255, 255, 255, 0.9);
+	font-style: italic;
+}
+
+
+
+
+.uf[type="text"]{
+	background-color: rgb(173,234,234);
+	font-weight: bolder;
+	
+	}
+.uf[type="text"]:focus{
+	background: rgba(255, 255, 255, 0.9);
+	font-style: italic;
+}
+
+
+
+.rg[type="text"]{
+	background-color: rgb(173,234,234);
+	font-weight: bolder;
+	
+	}
+.rg[type="text"]:focus{
+	background: rgba(255, 255, 255, 0.9);
+	font-style: italic;
+}
+
+
+.cpf[type="text"]{
+	background-color: rgb(173,234,234);
+	font-weight: bolder;
+	
+	}
+.cpf[type="text"]:focus{
+	background: rgba(255, 255, 255, 0.9);
+	font-style: italic;
+}
+
+
+.email[type="text"]{
+	background-color: rgb(173,234,234);
+	font-weight: bolder;
+	
+	}
+.email[type="text"]:focus{
+	background: rgba(255, 255, 255, 0.9);
+	font-style: italic;
+}
+ 
+.area[type="text"]{
+	background-color: rgb(173,234,234);
+	font-weight: bolder;
+}
+
+.area[type="text"]:focus{
+	background: rgba(255, 255, 255, 0.9);
+	font-style: italic;
+}
