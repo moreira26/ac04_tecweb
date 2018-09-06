@@ -1,7 +1,13 @@
+body{
+	margin: 10px;
+	
+}
+
+
 .nome[type="text"]{
 	background-color: rgb(173,234,234);
 	font-weight: bolder;
-
+	width: 20ch;
 	
 	}
 .nome[type="text"]:focus{
@@ -13,7 +19,7 @@
 .endereco[type="text"]{
 	background-color: rgb(173,234,234);
 	font-weight: bolder;
-
+	width: 30ch;
 	}
 .endereco[type="text"]:focus{
 	background: rgba(255, 255, 255, 0.9);
@@ -59,7 +65,7 @@
 .cpf[type="text"]{
 	background-color: rgb(173,234,234);
 	font-weight: bolder;
-	
+	width: 11ch;
 	}
 .cpf[type="text"]:focus{
 	background: rgba(255, 255, 255, 0.9);
@@ -80,6 +86,7 @@
 .area[type="text"]{
 	background-color: rgb(173,234,234);
 	font-weight: bolder;
+	
 }
 
 .area[type="text"]:focus{
